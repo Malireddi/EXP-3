@@ -1,16 +1,19 @@
 # Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
 # Algorithm:
-The manufacturer records product creation details on-chain.
+1.Identify stakeholders involved in the luxury goods supply chain.
 
+2.Set up a blockchain network to record and share supply chain data.
 
-The product moves through different supply chain checkpoints.
+3.Develop smart contracts to automate tracking and verification processes.
 
+4.Assign unique digital IDs (e.g., QR/RFID) to each luxury product.
 
-The ownership of the product can be transferred securely.
+5.Record product data at every supply chain stage into the blockchain.
 
+6.Enable consumer access to product history via a web or mobile app.
 
-Buyers can verify the product’s authenticity.
+7.Monitor and improve the system through audits and feedback.
 
 
 # Program:
